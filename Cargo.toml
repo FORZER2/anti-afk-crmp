@@ -1,0 +1,12 @@
+[package]
+name = "Anti-AFK"
+version = "1.0.0"
+edition = "2021"
+authors = ["FORZER <0af1sao6@duck.com>"]
+description = "Anti-AFK by FORZER был сделан для Radmir CRMP, но его вы можете использовать для любой игры! Программа не интегрируется в игру и симулирует нажатие клавиш, т.е. как бы клавиши нажимаются за вас."
+keywords = ["афк", "afk", "anti afk", "antiafk", "anti", "анти", "анти афк"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+enigo = "0.0.14"
